@@ -98,20 +98,19 @@ function HomePage() {
       <section className="hero" id="inicio">
         <div className="hero-copy">
           <div className="eyebrow"><span className="eyebrow-line" /> ODONTOLOGIA COM ACOLHIMENTO</div>
-          <h1>Seu sorriso merece um cuidado <em>especial.</em></h1>
+          <h1>Seu sorriso, nossa <em>prioridade.</em></h1>
           <p className="hero-description">
-            Um espaço para cuidar de você com atenção, leveza e um olhar
-            individual para o que faz o seu sorriso único.
+            Um atendimento humanizado, moderno e personalizado para cuidar da sua saúde bucal e valorizar o que há de melhor no seu sorriso.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#contato">
-              Vamos conversar <ArrowUpRight size={17} />
+              Agende sua consulta <ArrowUpRight size={17} />
             </a>
-            <a className="text-link" href="#sobre">Conheça a profissional <ArrowDown size={15} /></a>
+            <a className="text-link" href="#sobre">Conheça meu trabalho <ArrowDown size={15} /></a>
           </div>
           <div className="hero-note">
             <span className="note-icon"><Heart size={16} /></span>
-            <span>Cuidado próximo, respeitando a sua individualidade.</span>
+            <span>Atendimento personalizado, com atenção a cada detalhe.</span>
           </div>
         </div>
 
@@ -139,13 +138,11 @@ function HomePage() {
         <div className="section-kicker" data-reveal><span>01</span><i /> UM CUIDADO QUE COMEÇA NA ESCUTA</div>
         <div className="intro-grid">
           <div className="intro-heading" data-reveal>
-            <h2>Mais do que cuidar de sorrisos, <em>cuidar de pessoas.</em></h2>
+            <h2>Cuidado em cada <em>detalhe.</em></h2>
           </div>
           <div className="intro-body" data-reveal>
             <p>
-              Cada pessoa tem uma história, uma rotina e expectativas diferentes.
-              Por isso, acreditamos que um bom cuidado começa com uma conversa
-              atenta e um planejamento feito com respeito à sua individualidade.
+              Sou Dra. Thalyta Moura, cirurgiã-dentista. Acredito que um sorriso vai muito além da estética: ele também expressa saúde, autoestima e bem-estar. Meu propósito é oferecer um atendimento próximo, ético e individualizado.
             </p>
             <a className="underlined-link" href="#contato">Dê o primeiro passo <ArrowUpRight size={16} /></a>
           </div>
@@ -161,9 +158,9 @@ function HomePage() {
         <div className="care-top">
           <div>
             <div className="section-kicker light-kicker" data-reveal><span>02</span><i /> NOSSO JEITO DE CUIDAR</div>
-            <h2 data-reveal>Uma experiência de cuidado <em>mais leve.</em></h2>
+            <h2 data-reveal>Cuidado pensado para <em>você.</em></h2>
           </div>
-          <p data-reveal>Um olhar atento em todas as etapas, da primeira conversa ao acompanhamento.</p>
+          <p data-reveal>Acolhimento, atenção e orientação em cada etapa do seu atendimento.</p>
         </div>
         <div className="care-grid">
           <article className="care-item" data-reveal>
@@ -209,8 +206,8 @@ function HomePage() {
         <div className="contact-panel" data-reveal>
           <div className="contact-panel-icon"><MessageCircle size={23} /></div>
           <h3>Vamos conversar?</h3>
-          <p>Os canais oficiais de atendimento serão inseridos assim que os dados de contato forem confirmados.</p>
-          <span className="contact-pending">CANAL DE ATENDIMENTO EM CONFIGURAÇÃO</span>
+          <p>Entre em contato para tirar suas dúvidas e saber mais sobre o atendimento. Os dados oficiais de contato serão adicionados após confirmação.</p>
+          <span className="contact-pending">CONTATO OFICIAL A CONFIRMAR</span>
         </div>
       </section>
 
