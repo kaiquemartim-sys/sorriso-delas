@@ -117,7 +117,7 @@ function HomePage() {
         <div className="hero-visual" aria-label="Ambiente odontológico acolhedor">
           <div className="hero-image-wrap">
             <img
-              src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1500&q=88"
+              src="/dra-thalyta-hero.webp"
               alt="Ambiente moderno e acolhedor de uma clínica odontológica"
               fetchPriority="high"
             />
