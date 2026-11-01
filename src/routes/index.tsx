@@ -2,7 +2,6 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import {
   ArrowDown,
-  ArrowRight,
   ArrowUpRight,
   Check,
   Heart,
