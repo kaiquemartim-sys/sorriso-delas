@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title"><title id="title">Thalyta Moura Odontologia</title><defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2d69a"/><stop offset=".45" stop-color="#b88736"/><stop offset="1" stop-color="#79501d"/></linearGradient></defs><g fill="none" stroke="url(#gold)" stroke-width="5"><path d="M28 20h142v142H28z"/><path d="M53 55h92M99 55v82M53 96l46-41 46 41M53 96v41M145 96v41"/></g><g fill="url(#gold)" font-family="Georgia,serif"><text x="198" y="104" font-size="66" letter-spacing="7">THALYTA MOURA</text><text x="203" y="151" font-size="27" letter-spacing="12">ODONTOLOGIA</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title">
+<title id="title">Thalyta Moura Odontologia</title>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2d69a"/><stop offset=".45" stop-color="#b88736"/><stop offset="1" stop-color="#79501d"/></linearGradient></defs>
+<g fill="none" stroke="url(#gold)" stroke-width="8" transform="translate(190 48) scale(1.55)">
+<path d="M28 20h142v142H28z"/><path d="M53 55h92M99 55v82M53 96l46-41 46 41M53 96v41M145 96v41"/>
+</g>
+<g fill="url(#gold)" font-family="Georgia,serif" text-anchor="middle">
+<text x="300" y="420" font-size="58" letter-spacing="5">THALYTA MOURA</text>
+<text x="300" y="475" font-size="28" letter-spacing="10">ODONTOLOGIA</text>
+</g></svg>
