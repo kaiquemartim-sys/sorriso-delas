@@ -134,6 +134,13 @@ function HomePage() {
         <div className="hero-side-label">THALYTA MOURA · ODONTOLOGIA</div>
       </section>
 
+      <section className="benefit-strip" aria-label="Diferenciais do atendimento">
+        <div><span className="benefit-symbol">♡</span><p>Atendimento<br/>personalizado</p></div>
+        <div><span className="benefit-symbol">◇</span><p>Cuidado em cada<br/>detalhe</p></div>
+        <div><span className="benefit-symbol">✳</span><p>Saúde e<br/>bem-estar</p></div>
+        <div><span className="benefit-symbol">☺</span><p>Respeito à sua<br/>individualidade</p></div>
+      </section>
+
       <section className="intro-section section-pad" id="sobre">
         <div className="section-kicker" data-reveal><span>01</span><i /> UM CUIDADO QUE COMEÇA NA ESCUTA</div>
         <div className="intro-grid">
