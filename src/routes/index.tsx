@@ -56,11 +56,7 @@ function HomePage() {
     <main>
       <header className="site-header">
         <a className="brand" href="#inicio" aria-label="Dra. Thalyta Moura - início">
-          <span className="brand-mark"><span>t</span><i>.</i></span>
-          <span className="brand-copy">
-            <strong>Dra. Thalyta Moura</strong>
-            <small>Cirurgiã-Dentista</small>
-          </span>
+          <img className="brand-logo" src="/thalyta-moura-logo.svg" alt="Thalyta Moura Odontologia" />
         </a>
 
         <nav className="desktop-nav" aria-label="Navegação principal">
@@ -220,8 +216,7 @@ function HomePage() {
 
       <footer className="site-footer">
         <a className="brand footer-brand" href="#inicio">
-          <span className="brand-mark"><span>t</span><i>.</i></span>
-          <span className="brand-copy"><strong>Dra. Thalyta Moura</strong><small>Cirurgiã-Dentista</small></span>
+          <img className="brand-logo footer-logo" src="/thalyta-moura-logo.svg" alt="Thalyta Moura Odontologia" />
         </a>
         <span className="footer-note">Cuidado que acolhe. Sorrisos com identidade.</span>
         <a className="back-top" href="#inicio">Voltar ao topo <MoveUpRight size={15} /></a>
